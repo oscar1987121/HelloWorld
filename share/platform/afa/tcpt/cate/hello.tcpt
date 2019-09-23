@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Component>
+  <UUID>7C9ADAF630BCEDCDC458F33804F3E83F</UUID>
+  <Target>tc.platform.demo.P_hello</Target>
+  <Desp>hello</Desp>
+  <Group>cate</Group>
+  <Level>0</Level>
+  <Style>1</Style>
+  <Type>0</Type>
+  <AspectUsed>0</AspectUsed>
+  <ToolTip>hello</ToolTip>
+  <InArgs>
+    <Total>0</Total>
+    <Type>0</Type>
+  </InArgs>
+  <OutArgs>
+    <Total>0</Total>
+    <Type>0</Type>
+  </OutArgs>
+  <Logic>
+    <Total>2</Total>
+    <RET0>失败</RET0>
+    <RET1>成功</RET1>
+  </Logic>
+  <Path>/platform/src/main/tcpt/tc/platform/demo.java</Path>
+</Component>

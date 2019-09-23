@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Component>
+  <UUID>C86D8D091925019CACB6802E2530AFC2</UUID>
+  <Target>tc.bank.Mwer.B_mmkk</Target>
+  <Desp>mmkk</Desp>
+  <Group>qwer</Group>
+  <Level>1</Level>
+  <Style>1</Style>
+  <Type>0</Type>
+  <AspectUsed>0</AspectUsed>
+  <ToolTip>mmmkk</ToolTip>
+  <InArgs>
+    <Total>0</Total>
+    <Type>0</Type>
+  </InArgs>
+  <OutArgs>
+    <Total>0</Total>
+    <Type>0</Type>
+  </OutArgs>
+  <Logic>
+    <Total>2</Total>
+    <RET0>失败</RET0>
+    <RET1>成功</RET1>
+  </Logic>
+  <Path>/bank/src/main/tcpt/tc/bank/Mwer.java</Path>
+</Component>

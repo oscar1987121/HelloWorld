@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Package>
+  <Name>bcptParent</Name>
+  <Desp>bcptParent</Desp>
+  <Group>bcptParent</Group>
+  <Total>1</Total>
+  <Component>
+  
+    <Id>1</Id>
+  
+    <UUID>4CA75DBD5609451A9834D5BFB9DE250B</UUID>
+  
+    <Level>0</Level>
+  
+    <Quote>1</Quote>
+  
+    <Desp>bussCpt</Desp>
+  
+    <RefImpl>bussCpt</RefImpl>
+  
+    <Auth/>
+  
+    <ReadOnly>0</ReadOnly>
+  
+    <ToolTip/>
+  
+  
+  
+    <Implementation>
+    
+    
+    
+      <Usage>1</Usage>
+  
+      <Nodes>
+        <Node>
+      
+          <UUID>FCAB5E01B4574DFA8A6855066AE2EFC8</UUID>
+      
+          <Id>1</Id>
+      
+          <Name>开始</Name>
+      
+          <Desp>开始</Desp>
+      
+          <Type>2</Type>
+      
+          <Target>Begin</Target>
+      
+          <Style>0</Style>
+      
+          <Tooltip>开始</Tooltip>
+      
+          <Visible>null</Visible>
+      
+          <Collapse>0</Collapse>
+      
+          <Skip>
+        
+            <Enabled>0</Enabled>
+        
+            <Branch>1</Branch>
+      
+          </Skip>
+      
+          <Constraint>
+        
+            <Location>315,55</Location>
+        
+            <Size>63,63</Size>
+      
+          </Constraint>
+      
+          <SourceConnections>
+        
+            <Connection>
+          
+          
+              <SourceTerminal>1</SourceTerminal>
+          
+              <TargetTerminal>N</TargetTerminal>
+        
+              <TargetId>2</TargetId>
+            </Connection>
+      
+          </SourceConnections>
+      
+          <Terminals>
+        
+            <Terminal>
+          
+              <Name>1</Name>
+          
+              <Desp>锚点一</Desp>
+        
+            </Terminal>
+      
+          </Terminals>
+      
+      
+      
+          <Logic>
+        
+            <Total>1</Total>
+        
+            <RET1>2</RET1>
+      
+          </Logic>
+    
+          <InArgs>
+            <Total>0</Total>
+            <Type>2</Type>
+          </InArgs>
+          <InArgLevels>
+            <Total>0</Total>
+          </InArgLevels>
+          <InArgKeys>
+            <Total>0</Total>
+          </InArgKeys>
+          <OutArgs>
+            <Total>0</Total>
+            <Type>2</Type>
+          </OutArgs>
+          <OutArgLevels>
+            <Total>0</Total>
+          </OutArgLevels>
+          <OutArgKeys>
+            <Total>0</Total>
+          </OutArgKeys>
+        </Node>
+        <Node>
+      
+          <UUID>F07410BCED274275B665E3A4DBF470DB</UUID>
+      
+          <Id>2</Id>
+      
+          <Name>正常结束</Name>
+      
+          <Desp>正常结束</Desp>
+      
+          <Sql/>
+      
+          <Type>3</Type>
+      
+          <Target>END</Target>
+      
+          <Style>0</Style>
+      
+          <Tooltip>正常结束</Tooltip>
+      
+          <Visible>1</Visible>
+      
+          <Collapse>0</Collapse>
+      
+          <Skip>
+        
+            <Enabled>0</Enabled>
+        
+            <Branch>1</Branch>
+      
+          </Skip>
+      
+          <Constraint>
+        
+            <Location>373,387</Location>
+        
+            <Size>63,63</Size>
+      
+          </Constraint>
+      
+          <SourceConnections/>
+      
+      
+      
+          <Logic>
+        
+            <Total>0</Total>
+      
+          </Logic>
+    
+          <InArgs>
+            <Total>0</Total>
+            <Type>2</Type>
+          </InArgs>
+          <InArgLevels>
+            <Total>0</Total>
+          </InArgLevels>
+          <InArgKeys>
+            <Total>0</Total>
+          </InArgKeys>
+          <OutArgs>
+            <Total>0</Total>
+            <Type>2</Type>
+          </OutArgs>
+          <OutArgLevels>
+            <Total>0</Total>
+          </OutArgLevels>
+          <OutArgKeys>
+            <Total>0</Total>
+          </OutArgKeys>
+        </Node>
+      </Nodes>
+    </Implementation>
+    <InArgs>      <Total>0</Total>
+      <Type>2</Type>
+    </InArgs>
+    <InArgLevels>
+      <Total>0</Total>
+    </InArgLevels>
+    <InArgKeys>
+      <Total>0</Total>
+    </InArgKeys>
+    <OutArgs>
+      <Total>0</Total>
+      <Type>2</Type>
+    </OutArgs>
+    <OutArgLevels>
+      <Total>0</Total>
+    </OutArgLevels>
+    <OutArgKeys>
+      <Total>0</Total>
+    </OutArgKeys>
+  </Component>
+</Package>
