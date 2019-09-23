@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<description>
+  <service>
+    <systemCode>child</systemCode>
+    <version>1.0.0</version>
+    <code>child</code>
+    <name>child</name>
+    <description>child</description>
+    <priority>0</priority>
+    <timeout>0</timeout>
+    <explode>true</explode>
+    <modified>2019-09-18 17:15:18</modified>
+    <healthEnable>true</healthEnable>
+    <healthLimit>2019-09-18 17:15:18</healthLimit>
+    <scenes/>
+  </service>
+</description>
